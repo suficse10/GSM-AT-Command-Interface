@@ -1,0 +1,71 @@
+D:\Work Space\visual studio 2015\Wavecom\Wavecom\bin\Debug\Wavecom.exe.config
+D:\Work Space\visual studio 2015\Wavecom\Wavecom\bin\Debug\Wavecom.exe
+D:\Work Space\visual studio 2015\Wavecom\Wavecom\bin\Debug\Wavecom.pdb
+D:\Work Space\visual studio 2015\Wavecom\Wavecom\obj\Debug\Wavecom.csprojResolveAssemblyReference.cache
+D:\Work Space\visual studio 2015\Wavecom\Wavecom\obj\Debug\Wavecom.Form1.resources
+D:\Work Space\visual studio 2015\Wavecom\Wavecom\obj\Debug\Wavecom.Properties.Resources.resources
+D:\Work Space\visual studio 2015\Wavecom\Wavecom\obj\Debug\Wavecom.csproj.GenerateResource.Cache
+D:\Work Space\visual studio 2015\Wavecom\Wavecom\obj\Debug\Wavecom.exe
+D:\Work Space\visual studio 2015\Wavecom\Wavecom\obj\Debug\Wavecom.pdb
+D:\Work Space\visual studio 2015\Wavecom_v2\Wavecom\bin\Debug\Wavecom.exe.config
+D:\Work Space\visual studio 2015\Wavecom_v2\Wavecom\obj\Debug\Wavecom.exe
+D:\Work Space\visual studio 2015\Wavecom_v2\Wavecom\obj\Debug\Wavecom.pdb
+D:\Work Space\visual studio 2015\Wavecom_v2\Wavecom\bin\Debug\Wavecom.exe
+D:\Work Space\visual studio 2015\Wavecom_v2\Wavecom\bin\Debug\Wavecom.pdb
+D:\Work Space\visual studio 2015\Wavecom_v2\Wavecom\obj\Debug\Wavecom.csprojResolveAssemblyReference.cache
+D:\Work Space\visual studio 2015\Wavecom_v2\Wavecom\obj\Debug\Wavecom.Form1.resources
+D:\Work Space\visual studio 2015\Wavecom_v2\Wavecom\obj\Debug\Wavecom.Properties.Resources.resources
+D:\Work Space\visual studio 2015\Wavecom_v2\Wavecom\obj\Debug\Wavecom.csproj.GenerateResource.Cache
+F:\Wavecom_v2\Wavecom\bin\Debug\Wavecom.exe.config
+F:\Wavecom_v2\Wavecom\obj\Debug\Wavecom.exe
+F:\Wavecom_v2\Wavecom\obj\Debug\Wavecom.pdb
+F:\Wavecom_v2\Wavecom\bin\Debug\Wavecom.exe
+F:\Wavecom_v2\Wavecom\bin\Debug\Wavecom.pdb
+F:\Wavecom_v2\Wavecom\obj\Debug\Wavecom.csprojResolveAssemblyReference.cache
+F:\Wavecom_v2\Wavecom\obj\Debug\Wavecom.Form1.resources
+F:\Wavecom_v2\Wavecom\obj\Debug\Wavecom.Properties.Resources.resources
+F:\Wavecom_v2\Wavecom\obj\Debug\Wavecom.csproj.GenerateResource.Cache
+D:\Work Space\visual studio 2015\Wavecom_API\Wavecom\bin\Debug\Wavecom.exe.config
+D:\Work Space\visual studio 2015\Wavecom_API\Wavecom\bin\Debug\Wavecom.exe
+D:\Work Space\visual studio 2015\Wavecom_API\Wavecom\bin\Debug\Wavecom.pdb
+D:\Work Space\visual studio 2015\Wavecom_API\Wavecom\obj\Debug\Wavecom.Form1.resources
+D:\Work Space\visual studio 2015\Wavecom_API\Wavecom\obj\Debug\Wavecom.Properties.Resources.resources
+D:\Work Space\visual studio 2015\Wavecom_API\Wavecom\obj\Debug\Wavecom.csproj.GenerateResource.Cache
+D:\Work Space\visual studio 2015\Wavecom_API\Wavecom\obj\Debug\Wavecom.exe
+D:\Work Space\visual studio 2015\Wavecom_API\Wavecom\obj\Debug\Wavecom.pdb
+F:\Wavecom_API\Wavecom\bin\Debug\Wavecom.exe.config
+F:\Wavecom_API\Wavecom\bin\Debug\Wavecom.exe
+F:\Wavecom_API\Wavecom\bin\Debug\Wavecom.pdb
+F:\Wavecom_API\Wavecom\obj\Debug\Wavecom.csprojResolveAssemblyReference.cache
+F:\Wavecom_API\Wavecom\obj\Debug\Wavecom.Form1.resources
+F:\Wavecom_API\Wavecom\obj\Debug\Wavecom.Properties.Resources.resources
+F:\Wavecom_API\Wavecom\obj\Debug\Wavecom.csproj.GenerateResource.Cache
+F:\Wavecom_API\Wavecom\obj\Debug\Wavecom.exe
+F:\Wavecom_API\Wavecom\obj\Debug\Wavecom.pdb
+F:\Wavecom_API _v2\Wavecom\bin\Debug\Wavecom.exe.config
+F:\Wavecom_API _v2\Wavecom\obj\Debug\Wavecom.exe
+F:\Wavecom_API _v2\Wavecom\obj\Debug\Wavecom.pdb
+F:\Wavecom_API _v2\Wavecom\bin\Debug\Wavecom.exe
+F:\Wavecom_API _v2\Wavecom\bin\Debug\Wavecom.pdb
+F:\Wavecom_API _v2\Wavecom\obj\Debug\Wavecom.csprojResolveAssemblyReference.cache
+F:\Wavecom_API _v2\Wavecom\obj\Debug\Wavecom.Form1.resources
+F:\Wavecom_API _v2\Wavecom\obj\Debug\Wavecom.Properties.Resources.resources
+F:\Wavecom_API _v2\Wavecom\obj\Debug\Wavecom.csproj.GenerateResource.Cache
+G:\New folder\Wavecom_API _v2\Wavecom\bin\Debug\Wavecom.exe.config
+G:\New folder\Wavecom_API _v2\Wavecom\obj\Debug\Wavecom.exe
+G:\New folder\Wavecom_API _v2\Wavecom\obj\Debug\Wavecom.pdb
+G:\New folder\Wavecom_API _v2\Wavecom\bin\Debug\Wavecom.exe
+G:\New folder\Wavecom_API _v2\Wavecom\bin\Debug\Wavecom.pdb
+G:\New folder\Wavecom_API _v2\Wavecom\obj\Debug\Wavecom.csprojResolveAssemblyReference.cache
+G:\New folder\Wavecom_API _v2\Wavecom\obj\Debug\Wavecom.Form1.resources
+G:\New folder\Wavecom_API _v2\Wavecom\obj\Debug\Wavecom.Properties.Resources.resources
+G:\New folder\Wavecom_API _v2\Wavecom\obj\Debug\Wavecom.csproj.GenerateResource.Cache
+F:\Wavecom_API _v2(Feb20)\Wavecom\bin\Debug\Wavecom.exe.config
+F:\Wavecom_API _v2(Feb20)\Wavecom\obj\Debug\Wavecom.exe
+F:\Wavecom_API _v2(Feb20)\Wavecom\obj\Debug\Wavecom.pdb
+F:\Wavecom_API _v2(Feb20)\Wavecom\bin\Debug\Wavecom.exe
+F:\Wavecom_API _v2(Feb20)\Wavecom\bin\Debug\Wavecom.pdb
+F:\Wavecom_API _v2(Feb20)\Wavecom\obj\Debug\Wavecom.csprojResolveAssemblyReference.cache
+F:\Wavecom_API _v2(Feb20)\Wavecom\obj\Debug\Wavecom.Form1.resources
+F:\Wavecom_API _v2(Feb20)\Wavecom\obj\Debug\Wavecom.Properties.Resources.resources
+F:\Wavecom_API _v2(Feb20)\Wavecom\obj\Debug\Wavecom.csproj.GenerateResource.Cache
